@@ -1,2 +1,1 @@
-# trex1
-juego del dinosaurio
+# PROC18_LP_AM1
